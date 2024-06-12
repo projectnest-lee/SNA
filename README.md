@@ -7,6 +7,9 @@
 ## Abstract
 Leishmaniasis and African sleeping sickness are neglected tropical diseases included in the World Health Organization (WHO)’s list of major global health burdens, affecting millions of people worldwide. However, there is very limited commercial interest in these neglected tropical diseases. Although recent advancements in drug discovery have changed, traditional Artificial Neural Network (ANN) models and general machine learning models fail to adequately capture the complex interactions between diseases and drugs. This study aims to achieve high accuracy in predicting drug-target interactions (DTI) for neglected tropical diseases by utilizing Graph Convolutional Network (GCN) models to learn the intricate interactions between various protein and molecular variables. By addressing data imbalance issues and utilizing pooled embedding vectors, our experiments demonstrated that the GCN model significantly improves DTI prediction performance.
 
+## Proposed Model Architecture
+![image](https://github.com/hufsproject/SNA/assets/172377969/c764b3b1-746a-418e-8720-77eca28499cc)
+
 
 ## PubChem 데이터
 - 리슈만편모충증 데이터: [PubChem AID 1721](https://pubchem.ncbi.nlm.nih.gov/bioassay/1721)
